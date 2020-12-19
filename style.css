@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: lightyellow;
+
+}
+
+#bat {
+    font-family: monospace;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+h1 {
+    font-size: 90px;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+
+}
+
+ul {
+    text-align: right;
+}
+
+li:hover {
+    background-color: red;
+}
+
+link {
+    font-family: fantasy;
+}
+
+menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
